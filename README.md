@@ -1,2 +1,1 @@
-# spring-security-tutorial
-spring-security-tutorial
+# spring-security-Oauth2.0-excercise
